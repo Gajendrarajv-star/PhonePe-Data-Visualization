@@ -1,1 +1,3 @@
 # PhonePe-Data-Visualization
+
+The PhonePe Pulse Data Visualization Project transforms transaction data into interactive visual insights. It involves collecting data from PhonePe Pulse, cleaning and analyzing it, and creating visualizations using tools like Tableau or Python libraries. Key visualizations include bar charts, line graphs, pie charts, heat maps, and geo-maps to display transaction volumes, values, trends, and geographical patterns. The project aims to build user-friendly dashboards for stakeholders to filter and explore data, providing actionable insights for business growth, regional performance, category popularity, and user behavior, enabling data-driven decision-making and strategic improvements.
